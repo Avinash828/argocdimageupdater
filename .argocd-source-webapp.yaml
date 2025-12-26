@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - avinashyadavpuresoftware/tstdump:v1@sha256:03941320c7221a98c9209cca2e56c827b79f43420b0400cdc7657f802e63bfe9
